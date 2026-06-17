@@ -1,0 +1,9 @@
+2026-04-17 15:39:25 - DEBUG - This is a debug message from module 1
+2026-04-17 15:39:25 - WARNING - This is a warning message from module 1
+2026-04-17 15:39:25 - ERROR - THis is an error message
+2026-04-17 15:51:02 - ERROR - Division by zero is not allowed.
+2026-04-17 15:52:22 - ERROR - Division by zero is not allowed.
+2026-04-17 15:54:14 - DEBUG - Adding 10 + 5 = 15
+2026-04-17 15:54:14 - DEBUG - Subtracting 10 - 5 = 5
+2026-04-17 15:54:14 - ERROR - Division by zero is not allowed.
+2026-04-17 15:54:14 - DEBUG - Multiplying 10 * 5 = 50
